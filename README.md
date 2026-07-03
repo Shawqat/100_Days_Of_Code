@@ -39,7 +39,19 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 **Project:**  
 - Band Name Generator
+#
+### Day 2
+**Topic: Understanding Data Types and How to Manipulate Strings**  
+**What I learned:**  
+- Data Types
+- Numbers and Operations 
+- Type Conversion
+- F-strings
+- BMI Calcualtor
 
+#
+**Project:**  
+- Tip Calculator
 **Notes:**  
 
 ---

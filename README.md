@@ -50,8 +50,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 - BMI Calcualtor
 
 #
+### Day 3
+**Topic: Control Flow and Logical Operators**  
+**What I learned:**  
+- Conditional Statements
+- Logical Operators
+- Code Blocks and Scope
+- Nesting
+- BMI Calcualtor With interpretations
+
+#
 **Project:**  
-- Tip Calculator
+- Treasure Island
 **Notes:**  
 
 ---
@@ -70,9 +80,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 1 / 100 Days
+**Completed:** 3 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--1%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--3%2F100-blue)
 
 ---
 

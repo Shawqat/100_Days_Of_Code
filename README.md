@@ -48,7 +48,9 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 - Type Conversion
 - F-strings
 - BMI Calcualtor
-
+#
+**Project:**  
+- Tip Calculator
 #
 ### Day 3
 **Topic: Control Flow and Logical Operators**  
@@ -62,10 +64,21 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 **Project:**  
 - Treasure Island
+#
+### Day 4
+**Topic: Randomisation and Python Lists**  
+**What I learned:**  
+- Random Module
+- Lists and it's functions
+- Nested Lists & Dealing with IndexError
+
+#
+**Project:**  
+- Rock Paper Scissors
+#
 **Notes:**  
 
 ---
-
 > I'll update this README as I complete each day of the challenge.
 
 ## 🚀 Why I'm Doing This
@@ -80,9 +93,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 3 / 100 Days
+**Completed:** 4 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--3%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--4%2F100-blue)
 
 ---
 

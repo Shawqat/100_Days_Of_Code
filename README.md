@@ -116,9 +116,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 4 / 100 Days
+**Completed:** 6 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--4%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--6%2F100-blue)
 
 ---
 

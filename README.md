@@ -76,6 +76,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Rock Paper Scissors
 #
+### Day 5
+**Topic: Python Loops**  
+**What I learned:**  
+- Using For Loop with Lists
+- The range function
+- Code Blocks
+
+#
+**Project:**  
+- Password Generator
+#
+
 **Notes:**  
 
 ---

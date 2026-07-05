@@ -87,6 +87,17 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Password Generator
 #
+### Day 5
+**Topic: Python Functions**  
+**What I learned:**  
+- Using Functions
+- Code Blocks and While Loops
+- Defining and calling functions in python
+
+#
+**Project:**  
+- Escaping the maze
+#
 
 **Notes:**  
 

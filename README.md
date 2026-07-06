@@ -87,7 +87,7 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Password Generator
 #
-### Day 5
+### Day 6
 **Topic: Python Functions**  
 **What I learned:**  
 - Using Functions
@@ -97,6 +97,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 **Project:**  
 - Escaping the maze
+#
+### Day 7
+**Topic: **  
+**What I learned: Overview for what I've Learned**  
+- For & While Loops
+- Conditions
+- Lists and range
+- Strings & modules
+
+#
+**Project:**  
+- Hangman Project
 #
 
 **Notes:**  

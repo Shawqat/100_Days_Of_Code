@@ -110,6 +110,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Hangman Project
 #
+### Day 8
+**Topic: **  
+**What I learned: Function parameters & Caesar Cipher**  
+- Function params and arguments
+- Function with input
+- Positional vs Keywords args
+- Encryption & Decryption 
+
+#
+**Project:**  
+- Caesar Cipher
+#
 
 **Notes:**  
 
@@ -128,9 +140,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 6 / 100 Days
+**Completed:** 8 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--6%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--8%2F100-blue)
 
 ---
 

@@ -99,8 +99,8 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 - Escaping the maze
 #
 ### Day 7
-**Topic: **  
-**What I learned: Overview for what I've Learned**  
+**Topic: Overview for what I've Learned**  
+**What I learned:**  
 - For & While Loops
 - Conditions
 - Lists and range
@@ -111,8 +111,8 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 - Hangman Project
 #
 ### Day 8
-**Topic: **  
-**What I learned: Function parameters & Caesar Cipher**  
+**Topic: Function parameters & Caesar Cipher**  
+**What I learned:**  
 - Function params and arguments
 - Function with input
 - Positional vs Keywords args
@@ -124,8 +124,8 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 
 ### Day 9
-**Topic: **  
-**What I learned: Dictionaries, Nesting, And Secret Auction**  
+**Topic: Dictionaries, Nesting, And Secret Auction**  
+**What I learned:**  
 - Deep dive in Dictionaries
 - Nesting Lists & Dictionaries
 - Access items inside nesting items
@@ -134,6 +134,17 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 **Project:**  
 - Secret Auction 
+
+#
+### Day 10
+**Topic: Functions with outputs**  
+**What I learned:**  
+- Multiple return values
+- Leap Year Exercise
+- Docstrings
+#
+**Project:**  
+- Calculator Project
 #
 
 **Notes:**  
@@ -153,9 +164,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 9 / 100 Days
+**Completed:** 10 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--9%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--10%2F100-blue)
 
 ---
 

@@ -123,6 +123,19 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 - Caesar Cipher
 #
 
+### Day 9
+**Topic: **  
+**What I learned: Dictionaries, Nesting, And Secret Auction**  
+- Deep dive in Dictionaries
+- Nesting Lists & Dictionaries
+- Access items inside nesting items
+- Add, Edit, Delete items from dictionaries
+
+#
+**Project:**  
+- Secret Auction 
+#
+
 **Notes:**  
 
 ---
@@ -140,9 +153,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 8 / 100 Days
+**Completed:** 9 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--8%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--9%2F100-blue)
 
 ---
 

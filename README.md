@@ -146,6 +146,17 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Calculator Project
 #
+### Day 11
+**Topic: BlackJack Capstone Project**  
+**What I learned:**  
+- Multiple return values
+- Leap Year Exercise
+- Docstrings
+#
+**Project:**  
+- Calculator Project
+#
+
 
 **Notes:**  
 

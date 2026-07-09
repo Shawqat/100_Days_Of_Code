@@ -154,7 +154,17 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Calculator Project
 #
+### Day 12
+**Topic: Scope and Number Guessing Game**  
+**What I learned:**  
+- namespaces: local vs global
+- Block scope
+- Constants vs global scope
 
+#
+**Project:**  
+- Number guessing project
+#
 
 **Notes:**  
 
@@ -173,9 +183,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 10 / 100 Days
+**Completed:** 12 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--10%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--12%2F100-blue)
 
 ---
 

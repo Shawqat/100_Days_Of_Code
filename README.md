@@ -165,6 +165,14 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Number guessing project
 #
+### Day 13
+**Topic: Debugging and how to find and fix errors**  
+**What I learned:**  
+- try & catch blocks
+- debugging using print statement
+- debugging using debug tools in vs code
+
+#
 
 **Notes:**  
 
@@ -183,9 +191,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 12 / 100 Days
+**Completed:** 13 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--12%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--13%2F100-blue)
 
 ---
 

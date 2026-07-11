@@ -174,6 +174,12 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 
 #
 
+### Day 14
+**Topic: Higher lower game project**  
+**What I learned:**  
+- review what i've learned.
+#
+
 **Notes:**  
 
 ---
@@ -191,9 +197,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 13 / 100 Days
+**Completed:** 14 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--13%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--14%2F100-blue)
 
 ---
 

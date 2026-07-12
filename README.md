@@ -179,7 +179,13 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **What I learned:**  
 - review what i've learned.
 #
-
+### Day 15
+**Topic: Intermediate - Local Development Environment Setup & the Coffee Machine**  
+**What I learned:**  
+- 
+#
+**Project:**  
+- Coffee Machine
 **Notes:**  
 
 ---

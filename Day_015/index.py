@@ -81,4 +81,6 @@ def coffee_machine():
             payment = process_coins()
 
             if is_payment_successful(payment,MENU[choice]["cost"]):
-                make_coffee(choice)
+                make_coffee(choice, MENU[choice]["ingredients"])
+
+coffee_machine()

@@ -63,8 +63,7 @@ def print_report():
 def coffee_machine():
     while True:
 
-        choice = input(
-            "What would you like? (espresso/latte/cappuccino): ").strip().lower()
+        choice = input("What would you like? (espresso/latte/cappuccino): ").strip().lower()
 
         if choice == "off":
             break

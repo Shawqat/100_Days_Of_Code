@@ -182,10 +182,25 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 ### Day 15
 **Topic: Intermediate - Local Development Environment Setup & the Coffee Machine**  
 **What I learned:**  
-- 
+- review functions
+- review loops
+- review dictionaries
+- code decomposition
 #
 **Project:**  
 - Coffee Machine
+#
+### Day 15
+**Topic: Intermediate - Object Oriented Programming**  
+**What I learned:**  
+- OOP Classes and Objects
+- Constructing objects and access their attrs and methods
+- How to add Packages and use PyPI
+- Practice Modifying object attrs and calling methods
+#
+**Project:**  
+- Coffee Machine in OOP
+
 **Notes:**  
 
 ---

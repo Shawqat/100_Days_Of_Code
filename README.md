@@ -190,7 +190,7 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Coffee Machine
 #
-### Day 15
+### Day 16
 **Topic: Intermediate - Object Oriented Programming**  
 **What I learned:**  
 - OOP Classes and Objects
@@ -201,8 +201,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Coffee Machine in OOP
 
-**Notes:**  
+#
+### Day 17
+**Topic: The quiz project and the benefits of OOP**  
+**What I learned:**  
+- How to create my Own Class
+- Working with attrs and class constructors and __init__ function
+- Adding methods to a class
+#
+**Project:**  
+- Quiz Project using OOP
 
+**Notes:**  
 ---
 > I'll update this README as I complete each day of the challenge.
 
@@ -218,9 +228,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 14 / 100 Days
+**Completed:** 17 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--14%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--17%2F100-blue)
 
 ---
 

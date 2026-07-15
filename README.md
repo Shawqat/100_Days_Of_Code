@@ -212,6 +212,17 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - Quiz Project using OOP
 
+#
+### Day 18
+**Topic: Intermediate - Turtle & the Graphical User Interface**  
+**What I learned:**  
+- Understanding Turtle Graphics
+- Importing Modules, Installing Packages, and Working with Aliases
+- Python Tuples and How to Generate Random RGB Colours
+#
+**Project:**  
+- The Hirst Painting Project
+
 **Notes:**  
 ---
 > I'll update this README as I complete each day of the challenge.
@@ -228,9 +239,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 17 / 100 Days
+**Completed:** 18 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--17%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--18%2F100-blue)
 
 ---
 

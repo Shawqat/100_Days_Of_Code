@@ -223,6 +223,18 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 **Project:**  
 - The Hirst Painting Project
 
+#
+### Day 18
+**Topic: Intermediate - Instances, State and Higher Order Functions**  
+**What I learned:**  
+- More about Turtle Graphics
+- Event listeners
+- State and multiple instances
+- Higher order functions
+#
+**Project:**  
+- The Turtle race game
+
 **Notes:**  
 ---
 > I'll update this README as I complete each day of the challenge.

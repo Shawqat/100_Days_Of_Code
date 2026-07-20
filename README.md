@@ -243,6 +243,14 @@ For the next 100 days, I'll be coding in **Python** every day, building projects
 #
 **Project:**  
 - The snake game
+#
+### Day 21
+**Topic: Intermediate - Build the snake game part 2**  
+**What I learned:**  
+- Inheritance and list slicing
+#
+**Project:**  
+- The snake game
 
 **Notes:**  
 ---
@@ -260,9 +268,9 @@ I'm taking on this challenge to:
 
 ## 📈 Progress
 
-**Completed:** 20 / 100 Days
+**Completed:** 21 / 100 Days
 
-![Progress](https://img.shields.io/badge/Progress--20%2F100-blue)
+![Progress](https://img.shields.io/badge/Progress--21%2F100-blue)
 
 ---
 
